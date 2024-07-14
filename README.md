@@ -22,9 +22,9 @@ Hello! I'm a passionate coder who loves to solve problems and build amazing thin
 
 Here are a few highlights from my projects:
 
-- **Project A:** A web application for managing tasks and projects. [Repo Link](https://github.com/yourusername/project-a)
-- **Project B:** A machine learning model to predict house prices. [Repo Link](https://github.com/yourusername/project-b)
-- **Project C:** An open-source library for data visualization. [Repo Link](https://github.com/yourusername/project-c)
+- **Project A:** A web application for managing tasks and projects.
+- **Project B:** A machine learning model to predict a future of Casino business
+- **Project C:** An open-source library for data visualization.
 
 ![Coding Person](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
@@ -32,7 +32,7 @@ Here are a few highlights from my projects:
 
 Feel free to reach out if you want to collaborate on a project, have a question, or just want to say hi! You can find me on:
 
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **GitHub:** [yourusername](https://github.com/sohaibraza33)
 - **LinkedIn:** [yourprofile](https://linkedin.com/in/yourprofile)
 - **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
 
