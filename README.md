@@ -11,7 +11,7 @@ Hello! I'm a passionate coder who loves to solve problems and build amazing thin
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, R, PHP, HTML, CSS
 - **Frameworks:** React, Node.js, Django, Flask
 - **Tools:** Git, Docker, Kubernetes
 - **Databases:** MySQL, PostgreSQL, MongoDB
