@@ -40,7 +40,7 @@ Feel free to reach out if you want to collaborate on a project, have a question,
 
 ## Fun Facts
 
-- 😺 I love cats and have two of them.
+- 🦜 I love parrots and have two of them.
 - 🎮 In my free time, I enjoy playing video games and solving puzzles.
 - 🌱 I'm currently learning more about cloud computing and AI.
 
